@@ -1,0 +1,14 @@
+{
+  "Zone": "us",
+  "OrgId": "395799",
+  "WorkspaceId": "5ffb6091-b9fe-4293-983a-12653f46f251",
+  "SourceId": "c12c1b4a-debe-48cf-99ce-7ce9630183d5",
+  "Runtime": "browser:javascript-ampli",
+  "Branch": "main",
+  "Version": "2.0.0",
+  "VersionId": "87a4036f-2861-4005-87c5-5c7252b7295e",
+  "Path": "./src/ampli",
+  "api_token": "F21HN4ATNlRlMNXMSqnsS1f28aMhwtbQ",
+  "api_key": "caee194ea89495a4df5face54eea38b4",
+  "api_secret": "86a38e56d92ae79c4a7d1cab18c6059e"
+}
